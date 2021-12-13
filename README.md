@@ -45,18 +45,6 @@ $ yarn start:prod
 ```
 <br>
 
-## Test
-
-```bash
-# unit tests
-$ yarn test
-
-# e2e tests
-$ yarn test:e2e
-
-# test coverage
-$ yarn test:cov
-```
 ## License
 
 Nest is [MIT licensed](LICENSE).
